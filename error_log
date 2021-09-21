@@ -1,0 +1,42 @@
+[18-Apr-2019 00:50:43 UTC] PHP Fatal error:  Class 'Database' not found in /home/locaeasy/public_html/equipamentos.php on line 4
+[18-Apr-2019 00:50:44 UTC] PHP Fatal error:  Class 'Database' not found in /home/locaeasy/public_html/equipamentos.php on line 4
+[18-Apr-2019 02:00:01 UTC] PHP Fatal error:  Class 'Database' not found in /home/locaeasy/public_html/equipamentos.php on line 4
+[18-Apr-2019 12:32:42 America/Cuiaba] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/locaeasy/public_html/sistema/ferramenta/PHPmailer/class.phpmailer.php on line 1862
+[04-Jul-2019 14:47:41 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[04-Jul-2019 14:47:41 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[02-Mar-2020 04:55:26 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[02-Mar-2020 06:02:21 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[29-Jul-2020 09:25:28 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[17-Aug-2020 08:17:00 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[27-Oct-2020 08:12:13 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[01-Nov-2020 19:25:21 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[22-Nov-2020 17:51:24 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[30-Nov-2020 12:08:00 America/Cuiaba] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/locaeasy/public_html/sistema/ferramenta/PHPmailer/class.phpmailer.php on line 1862
+[12-Dec-2020 21:22:44 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[20-Jan-2021 08:36:15 America/Cuiaba] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/locaeasy/public_html/sistema/ferramenta/PHPmailer/class.phpmailer.php on line 1862
+[06-Apr-2021 05:57:51 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[06-Apr-2021 05:57:51 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[06-Apr-2021 06:23:02 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[06-Apr-2021 06:23:02 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[08-Apr-2021 16:02:20 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[08-Apr-2021 16:02:20 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[08-Apr-2021 23:21:47 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[08-Apr-2021 23:21:47 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[12-Apr-2021 21:28:07 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[12-Apr-2021 21:28:07 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[14-Apr-2021 00:36:53 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[14-Apr-2021 00:36:53 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[15-Apr-2021 17:29:19 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[15-Apr-2021 17:29:19 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[16-Apr-2021 23:04:38 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[16-Apr-2021 23:04:38 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[17-Apr-2021 03:14:43 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[17-Apr-2021 03:14:43 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[20-Apr-2021 22:12:01 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[20-Apr-2021 22:12:01 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[23-Apr-2021 09:38:44 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[23-Apr-2021 09:38:44 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[25-Apr-2021 17:14:57 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[25-Apr-2021 17:14:57 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
+[26-Apr-2021 20:48:23 America/Cuiaba] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 32
+[26-Apr-2021 20:48:23 America/Cuiaba] PHP Warning:  mail() has been disabled for security reasons in /home/locaeasy/public_html/sistema/ferramenta/Class/pdo.class.php on line 41
